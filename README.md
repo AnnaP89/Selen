@@ -1,0 +1,1 @@
+https://github.com/AnnaP89/Selen/actions/workflows/gradle.yml/badge.svg)
